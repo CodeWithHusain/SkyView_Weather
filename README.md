@@ -56,10 +56,6 @@ The following environment variables can be set:
 
 ![Weather App Screenshot](screenshots/weather-app.png)
 
-## License
-
-MIT
-
 ## Author
 
-Your Name
+Hussain
